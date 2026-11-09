@@ -1,52 +1,29 @@
-<h1 align="center">Hi 👋, I'm Nagappa</h1>
+# Hi, I’m Nagappa 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/nagappa-guriginjakunta-03a8053a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+**Cloud & DevOps Engineer** based in Bengaluru, India, open to relocation.
+I run production workloads on **AWS and Azure**, build CI/CD pipelines and automate infrastructure as code.
 
-<h3 align="center">Cloud & DevOps Engineer | AWS • Azure • Kubernetes • Terraform • Jenkins</h3>
+## What I work on
 
-<p align="center">
-  Results-driven engineer with 2 years building scalable, secure cloud infrastructure and CI/CD pipelines.<br/>
-  Passionate about automation, cost optimization, observability, and cloud-native solutions.
-</p>
+- **Kubernetes and containers:** AKS and AWS ECS in production, Helm, NGINX Ingress, RBAC
+- **CI/CD:** 90+ Jenkins pipelines, GitHub Actions, AWS CodePipeline, SonarCloud quality gates, blue-green releases
+- **Infrastructure as code:** Terraform, Ansible, AWS CDK (Python)
+- **Monitoring:** Prometheus, Grafana, Datadog, CloudWatch, Azure Monitor
+- **Security and cost:** IAM, SCPs, Security Hub, GuardDuty, right-sizing, Savings Plans
+- **Linux:** RHEL, CentOS, Ubuntu, Nginx, shell scripting
 
----
+## Results from my production work
 
-### 🛠️ Tech Stack
+- Held **99.99% uptime** on a payment platform with blue-green releases
+- Cut infrastructure cost by **30%** on an AWS payments platform
+- Respond to production alerts within **5 minutes**, backed by SOPs and runbooks
 
-**Cloud** • AWS (ECS, Lambda, SES, Security Hub, GuardDuty) • Azure (AKS, Virtual Machines, VNETs)  
-**Containers & Orchestration** • Docker • Kubernetes (AKS/EKS) — Deployments, StatefulSets, DaemonSets  
-**CI/CD & Automation** • Jenkins • AWS CodePipeline • Terraform • Ansible  
-**Monitoring** • Prometheus • Grafana • CloudWatch • OpenSearch  
-**Scripting & OS** • Bash/Shell • Linux (RHEL, CentOS, Ubuntu)  
-**Other** • Git • Bitbucket • NGINX • EventBridge • Lambda • S3
+## Tech stack
 
----
+`AWS` `Azure` `Kubernetes` `Docker` `Helm` `Jenkins` `GitHub Actions` `CodePipeline` `Terraform` `Ansible` `AWS CDK` `Prometheus` `Grafana` `Datadog` `Linux` `Python` `Bash`
 
-### 🚀 Key Projects
+## Find me
 
-- **PAGA Mobile Payment Platform** (Azure AKS)  
-  Kubernetes orchestration, NGINX Ingress, Jenkins CI/CD, RBAC & monitoring
-
-- **OxPay Financial Services** (AWS ECS)  
-  Event-driven payment processing (Lambda + EventBridge + SNS/SQS), 30% cost reduction
-
-- **Vserv Digital Marketing Platform** (AWS EC2 + SES)  
-  Email bounce handling automation, CSPM/Security Hub remediation, Linux administration
-
-More details and code in the pinned repositories below 👇
-
----
-
-### 📫 Let's Connect
-
-- LinkedIn → [linkedin.com/in/nagappa-guriginjakunta-03a8053a8](https://www.linkedin.com/in/nagappa-guriginjakunta-03a8053a8)
-- Email → guriginjakuntanagappa8@gmail.com
-
----
-<p align="center">
-  <i>Always learning, always automating</i>
-</p>
+- Portfolio: https://Nagappa-devops.github.io
+- LinkedIn: https://www.linkedin.com/in/nagappa-guriginjakunta-03a8053a8/
+- Email: nagappaguriginjakunta@gmail.com
