@@ -26,4 +26,4 @@ I run production workloads on **AWS and Azure**, build CI/CD pipelines and autom
 
 - Portfolio: https://Nagappa-devops.github.io
 - LinkedIn: https://www.linkedin.com/in/nagappa-guriginjakunta-03a8053a8/
-- Email: nagappaguriginjakunta@gmail.com
+- Email: guriginjakuntanagappa8@gmail.com
